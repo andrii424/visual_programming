@@ -1,0 +1,14 @@
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\bin\Debug\net8.0-windows\Assignment3.exe
+C:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\bin\Debug\net8.0-windows\Assignment3.deps.json
+C:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\bin\Debug\net8.0-windows\Assignment3.runtimeconfig.json
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\bin\Debug\net8.0-windows\Assignment3.dll
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\bin\Debug\net8.0-windows\Assignment3.pdb
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\obj\Debug\net8.0-windows\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\obj\Debug\net8.0-windows\Assignment3.AssemblyInfoInputs.cache
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\obj\Debug\net8.0-windows\Assignment3.AssemblyInfo.cs
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\obj\Debug\net8.0-windows\Assignment3.csproj.CoreCompileInputs.cache
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\obj\Debug\net8.0-windows\Assignment3.dll
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\obj\Debug\net8.0-windows\refint\Assignment3.dll
+c:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\obj\Debug\net8.0-windows\Assignment3.pdb
+C:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\obj\Debug\net8.0-windows\Assignment3.genruntimeconfig.cache
+C:\Users\VsemPK\Desktop\ThirdAssignment\Assignment3\obj\Debug\net8.0-windows\ref\Assignment3.dll

@@ -1,0 +1,5 @@
+C:\Users\VsemPK\Desktop\Templates\MyWinFormsApp\FourthAssignment\obj\Debug\net8.0-windows\FourthAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VsemPK\Desktop\Templates\MyWinFormsApp\FourthAssignment\obj\Debug\net8.0-windows\FourthAssignment.AssemblyInfoInputs.cache
+C:\Users\VsemPK\Desktop\Templates\MyWinFormsApp\FourthAssignment\obj\Debug\net8.0-windows\FourthAssignment.AssemblyInfo.cs
+C:\Users\VsemPK\Desktop\Templates\MyWinFormsApp\FourthAssignment\obj\Debug\net8.0-windows\FourthAssignment.csproj.CoreCompileInputs.cache
+C:\Users\VsemPK\Desktop\Templates\MyWinFormsApp\FourthAssignment\obj\Debug\net8.0-windows\FourthAssignment.sourcelink.json
